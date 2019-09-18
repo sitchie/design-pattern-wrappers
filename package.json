@@ -1,5 +1,5 @@
 {
-  "name": "design-patterns",
+  "name": "design-pattern-wrappers",
   "version": "1.0.0",
   "description": "reusable javascript design pattern wrappers",
   "main": "index.js",
