@@ -4,7 +4,7 @@
 	"description": "reusable javascript design pattern wrappers",
 	"main": "index.js",
 	"scripts": {
-		"start": "babel -s inline -d lib -w src",
+		"start": "babel -s inline -d . -w src",
 		"build": "babel -s inline -d . src",
 		"prepublish": "npm run build"
 	},
