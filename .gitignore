@@ -1,4 +1,4 @@
 /node_modules/
 /patterns/
-/index.js/
-/package-lock.json/
+./index.js
+./package-lock.json
